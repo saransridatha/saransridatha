@@ -1,16 +1,16 @@
-# ⚡ Saran Sri Datha Madhipati
-### Cloud Infrastructure Engineer | Application Reliability Engineer
+# Saran Sri Datha Madhipati
+### Cloud Infrastructure Engineer
 
 I build resilient, multi-tiered infrastructure and intelligent systems with a focus on architectural elegance and site reliability. I specialize in cost-optimized Linux environments, serverless AWS architectures, and rootless container orchestration.
 
-- 🔭 Currently working as an **Application Reliability Engineer Intern** at **2LYP Computations**.
-- 🎓 Studying **B.E. Computer Science (Cloud Computing)** at **Chandigarh University** (Class of 2027).
-- ⚙️ Focusing on high availability, low-latency orchestration, and automated CI/CD pipelines.
-- 📍 Based in East Godavari, India.
+- Currently working as an **Application Reliability Engineer Intern** at **2LYP Computations**.
+- Studying **B.E. Computer Science (Cloud Computing)** at **Chandigarh University** (Class of 2027).
+- Focusing on high availability, low-latency orchestration, and automated CI/CD pipelines.
+- Based in East Godavari, India.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & OS** ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -37,7 +37,7 @@ I build resilient, multi-tiered infrastructure and intelligent systems with a fo
 
 ---
 
-### 🚀 Selected Engineering
+### Selected Engineering
 
 * **[FluxControl](https://github.com/saransridatha/fluxcontrol)**: Cloud-native serverless API rate limiter managing simulated traffic bursts of 100 RPS. Implemented adaptive CPU-based throttling and a Proof-of-Work shield. `AWS Lambda` `DynamoDB`
 * **Scholr 1.0**: Led infrastructure deployment for a multi-tenant ERP platform serving 1,200+ users. Orchestrated rootless containers on Linux VPS and built automated deployment workflows. `Podman` `Jenkins`
@@ -48,16 +48,7 @@ I build resilient, multi-tiered infrastructure and intelligent systems with a fo
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saransridatha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saransridatha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
-### 📜 Certifications
+### Certifications
 * **AWS Certified Solutions Architect – Associate** *(Expected Apr 2026)*
 * **AWS Certified Cloud Practitioner** *(Feb 2026)*
 * **Microsoft Azure AI Fundamentals** *(Nov 2025)*
@@ -65,7 +56,7 @@ I build resilient, multi-tiered infrastructure and intelligent systems with a fo
 
 ---
 
-### 📡 Communications
+### Communications
 
 <div align="left">
   <a href="https://linkedin.com/in/saransridatha">
