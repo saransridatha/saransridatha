@@ -49,10 +49,8 @@ I build resilient, multi-tiered infrastructure and intelligent systems with a fo
 ---
 
 ### Certifications
-* **AWS Certified Solutions Architect – Associate** *(Expected Apr 2026)*
 * **AWS Certified Cloud Practitioner** *(Feb 2026)*
 * **Microsoft Azure AI Fundamentals** *(Nov 2025)*
-* **OCI Generative AI Professional**
 
 ---
 
